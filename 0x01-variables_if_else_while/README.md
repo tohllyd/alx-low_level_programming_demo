@@ -1,0 +1,1 @@
+this file contains readme for project varible if, else, else-if statement in c
